@@ -1,0 +1,27 @@
+html {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font: 1em/1.5 'PT Sans', 'Arial', 'Liberation Sans', FreeSans, sans-serif;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
